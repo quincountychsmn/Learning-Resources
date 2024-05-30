@@ -2,5 +2,3 @@ Video: Understand Modules with R & RStudio | RStudio Webinar - 2016 https://www.
 Documentation: Understand Modules with R & RStudio | RStudio Webinar - 2016 https://github.com/rstudio/webinars/blob/master/19-Understanding-modules/modules/gapModule.R 
 
 Documentation: RStudio webinars: https://github.com/rstudio/webinars/tree/master 
-
-https://www.cdc.gov/places/
